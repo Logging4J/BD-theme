@@ -1,0 +1,16 @@
+/**
+ * @name BestThemeFr
+ * @author L4J
+ * @version 1.0.0
+ * @description rly shitty theme idk why you would use it.
+*/
+
+@import url("https://codedotspectra.github.io/themes/themes-cores/neutron8.css");
+
+:root {
+  --homeImage: url('https://wallpapers-clan.com/wp-content/uploads/2022/05/meme-pfp-02.jpg');
+  --backgroundImage: url('https://i.imgur.com/W386hpR.jpg');
+  --backgroundBlur: 9px;
+  --backgroundOpacity: 0.50;
+}
+
